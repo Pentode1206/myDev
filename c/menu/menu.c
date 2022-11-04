@@ -2,10 +2,9 @@
 # include<stdio.h>
 # include<stdlib.h> // this lib has the "clear" (clear screen) function
 
-int choice;
-
 int main()
 {
+	char choice;
 	do {
 	// Print menu and prompt for input
 	system("clear"); // Clear the screen
@@ -14,11 +13,11 @@ int main()
 	printf("\n\n\t\t3. Third Option");
 	printf("\n\n\t\t4. Fourth Option");
 	printf("\n\n\t\tEnter Option number: ");
-	scanf("%d",&choice);
+	choice = getchar();
 	}
 	// If 'choice' is not a valid option, repeat do loop
-	while (choice < 1 || choice > 4);
-	printf("\n\n\t\tYou chose %d!\n\n", choice);
+	while (choice < '1' || choice > '4');
+	printf("\n\n\t\tYou chose %c!\n\n", choice);
 	printf("\n\n");
 	return 0;
 }
