@@ -8,7 +8,7 @@ int main()
 	do {
 	// Print menu and prompt for input
 	system("clear"); // Clear the screen
-	printf("\n\n\t\t1. First Option");
+	printf("\n\n\n\n\n\t\t1. First Option");
 	printf("\n\n\t\t2. Second Option");
 	printf("\n\n\t\t3. Third Option");
 	printf("\n\n\t\t4. Fourth Option");
