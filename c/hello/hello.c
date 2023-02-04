@@ -2,6 +2,6 @@
 // My Hello, World program
 int main()
 {
-    printf("\n\nHello, most beautiful, most excellent World!\n\n");
+    printf("\n\nHello, most beautiful, most wonderful World!\n\n");
     return 0;
 }
