@@ -1,4 +1,4 @@
-/* Functions example from p. 17 of The GNU C Progrsmming Tutorial C */
+/* Functions example from ch. 4.4 (p. 19) of The GNU C Programming Tutorial */
 /* Two functions are "prototyped" in lines 9 & 10 */
 /* Main function is defined beginning at line 29 */
 /* Successfully compiled and executed 27OCT23 */
