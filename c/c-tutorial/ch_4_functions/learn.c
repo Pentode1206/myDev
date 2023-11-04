@@ -20,6 +20,7 @@ void print_stuff (int foo, int bar) // Call calc_value with two integers passed 
 	
 	var_to_print = calc_value (foo, bar); // variable var_to_print set to the returned value of calc_value
 	printf("var_to_print = %d\n", var_to_print);
+	// note 'return' is not used here as no value is returned
 }
 
 int calc_value (int bas, int quux) // Return the multiplicand of the two integers passed
