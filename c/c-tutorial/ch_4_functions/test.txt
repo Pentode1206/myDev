@@ -1,1 +1,2 @@
-THis is a test file to troubleshoot git.
+This is a test file to troubleshoot git.
+Added this line to update file.
