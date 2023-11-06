@@ -6,8 +6,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int num_1 = 150;
-int num_2 = 250;
+int num_1 = 15;
+int num_2 = 25;
 int add_nums (int num_1, int num_2); // function prototype
 int prn_sum (int sum_1); // function prototype
 
