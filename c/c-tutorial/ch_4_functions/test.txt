@@ -1,3 +1,0 @@
-This is a test file to troubleshoot git.
-Added this line to update file.
-Added another line.
